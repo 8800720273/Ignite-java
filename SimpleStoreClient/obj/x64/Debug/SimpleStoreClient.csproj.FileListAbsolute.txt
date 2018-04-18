@@ -1,2 +1,0 @@
-E:\ServiceFabricProject\SimpleStoreApplication\SimpleStoreClient\obj\x64\Debug\SimpleStoreClient.csprojResolveAssemblyReference.cache
-C:\Users\BAL KRISHNA\Desktop\SimpleStoreClient\bin\x64\Debug\SimpleStoreClient.exe.config
